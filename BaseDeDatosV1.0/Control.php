@@ -8,7 +8,30 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <style>
-</style> 
+	 body{
+        position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.445), rgba(0, 0, 0, 0.445)),url("https://th.bing.com/th/id/OIP.Xjc4tSy6HUYJr9GrJjqLggHaEo?pid=ImgDet&rs=1");
+    background-size: cover;
+color:white;
+    }
+    .box {
+    width: 600px;
+    padding: 70px;
+    top: 10%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    text-align: center;
+    box-shadow: 0 0 20px #00000060;
+    margin:0 auto;
+    }
+.logo{
+    width: 100px;
+    height:100px 
+}
+</style>
 
 <body>
    <center> <h1>Alumnos Generacion 1996-1999</h1> </center>
